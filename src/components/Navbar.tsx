@@ -2,7 +2,7 @@ import { Link, useLocation } from "react-router-dom";
 import logo from "@/assets/therapy-room-logo.png";
 
 const navItems = [
-  { label: "About Gloria", path: "/" },
+  { label: "About The Therapy Room", path: "/" },
   { label: "Specialties", path: "/what-we-offer" },
   { label: "Our Approach", path: "/lending-process" },
   { label: "Why Choose Us", path: "/why-choose-us" },
