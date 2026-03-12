@@ -16,7 +16,7 @@ const Footer = () => {
             <h4 className="font-heading font-semibold text-lg mb-4">Quick Links</h4>
             <div className="flex flex-col gap-2">
               {[
-                { label: "About Gloria", path: "/" },
+                { label: "About The Therapy Room", path: "/" },
                 { label: "Specialties", path: "/what-we-offer" },
                 { label: "Our Approach", path: "/lending-process" },
                 { label: "Why Choose Us", path: "/why-choose-us" },
